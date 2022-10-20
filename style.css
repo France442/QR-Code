@@ -1,15 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
 
-.attribution { 
-    margin-top: 10px;
-    font-size: 11px; 
-    text-align: center; 
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%);
- }
-
  body{
     height: 90vh;
     justify-content: center;
